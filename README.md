@@ -1,9 +1,9 @@
-# Quickselect & Order Statistics — BCS 309
+﻿# Quickselect & Order Statistics — BCS 309
 
 An interactive teaching tool for the Quickselect algorithm, built for BCS 309 Algorithms I at Canadian University Dubai.
 
 ## 🔗 Live Demo
-[View the tool on GitHub Pages](https://yourusername.github.io/quickselect-algorithm/)
+[View the tool on GitHub Pages](https://abdullahshammari796-ctrl.github.io/quickselect-algorithm/)
 
 ## 📖 About
 This tool teaches Quickselect (Hoare's Selection Algorithm) through:
@@ -25,3 +25,4 @@ Simply open `index.html` in any modern browser, or visit the GitHub Pages link a
 - **Course:** BCS 309 — Algorithms I | Spring 2026
 - **University:** Canadian University Dubai
 - **Instructor:** Dr. Arash Kermani
+
